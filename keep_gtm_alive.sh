@@ -1,4 +1,7 @@
 #!/bin/sh
+# Author : Damon
+# Email : zhongyuda89@163.com
+# Blog : https://segmentfault.com/u/weishidewanquanti/articles
 ######################################################
 # The following variables require manual configuration
 pgxl_owner=postgres
